@@ -9,7 +9,6 @@
 ## Array Medium
 |  #  | Title | Solution | Time | Space | Video|
 | --- | ----- | -------- | ---- | ----- | ---- |
-|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | [Python](./array/3.py) | _O(n)_| _O(n)_ ||
 |463| [Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description) | | _O(n^2)_| _O(1)_||
 
 ## Hash Table Easy
@@ -19,7 +18,10 @@
 |242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/) | | _O(n)_| _O(n)_ ||
 
 
-
+## Sliding Window Medium
+|  #  | Title | Solution | Time | Space | Video|
+| --- | ----- | -------- | ---- | ----- | ---- |
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/#/solutions) | | _O(n)_| _O(n)_ ||
 
 
 
@@ -105,7 +107,7 @@
 |78|[Subsets](https://leetcode.com/problems/subsets/#/description)| | _O(N*(2^N))_| _O(2^N)_|[:tv:](https://youtu.be/Az3PfUep7gk)|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/#/description)|  | _O(N*(2^N))_| _O(2^N)_  |  [:tv:](https://youtu.be/Az3PfUep7gk)|
 |46|[Permutations](https://leetcode.com/problems/permutations/#/description)|  | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://www.youtube.com/watch?v=oCGMwvKUQ_I&feature=youtu.be)|
-|47|[Permutations II](https://leetcode.com/problems/permutations/#/description)| [ | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://youtu.be/imLl2s9Ujis)|
+|47|[Permutations II](https://leetcode.com/problems/permutations/#/description)| | _O(N*(N!))_| _O(N!)_  |  [:tv:](https://youtu.be/imLl2s9Ujis)|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/#/description)|  | _O(N * (N!)_| _O(N)_  ||
 |77|[Combinations](https://leetcode.com/problems/combinations/#/description)|  | _O(N*(N!))_| _O(N!)_   ||
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/#/description)| | _O(K * (2^N)_| _O(N)_  |  [:tv:](https://youtu.be/HdS5dOaz-mk)|
